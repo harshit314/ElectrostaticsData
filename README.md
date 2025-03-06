@@ -9,7 +9,7 @@ $d$ is the centre to centre distance of the two bodies, non-dimensionalized by t
 
 $\psi$ is the angle between separation vector and the symmetry axis of the spheroid.
 
-$\phi_{ij}$ is the {ij}-th element of the potential matrix. Since potential matrix is symmetric, $\phi_{12} = \phi_{21}$.
+$\phi_{ij}$ is the ij-th element of the potential matrix. Since potential matrix is symmetric, $\phi_{12} = \phi_{21}$.
 
 CInvLub files have data for $d \ll 1$ when the bodies are nearly touching.
 
