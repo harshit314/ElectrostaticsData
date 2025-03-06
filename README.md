@@ -5,7 +5,7 @@ The folders are named based on the aspect ratio of the spheroids, i.e. kappa1 ->
 The folders contain text files for the values of the potential matrix computed using BIM in the following format:
 $d$,  $\psi$,  $cos(\psi)$,  $\phi_{11}$,  $\phi_{12}$,  $\phi_{22}$
 
-$d$ is the centre to centre distance of the two bodies, non-dimensionalized by the longer side length of the spheroid. Thus, for kappa1 and kappa4, this distance is relative to the side length $a$, while for kappaD25, this distance is relative to side length $a/\kappa$.
+$d$ is the centre to centre distance between the two bodies, non-dimensionalized by the longer side length of the spheroid. Thus, for kappa1 and kappa4, this distance is relative to the side length $a$, while for kappaD25, this distance is relative to side length $a/\kappa$.
 
 $\psi$ is the angle between separation vector and the symmetry axis of the spheroid.
 
